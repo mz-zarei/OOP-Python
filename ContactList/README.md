@@ -1,0 +1,2 @@
+# Contact List
+This mini project will focus on using polymorphism while interacting with a contact list. There is a main class <Contacts> that controls the “view” the user sees and responds to user input. The contact information (personal and work) is an instance of the <Information> class.
