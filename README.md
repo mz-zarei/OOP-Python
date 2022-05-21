@@ -1,3 +1,6 @@
 # Object Oriented Programming Projects with Python
 
-- Coffee review journal 
+- Coffee review journal (Encapsulation)
+- Contact List (Polymorphism)
+
+
