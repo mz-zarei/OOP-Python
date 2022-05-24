@@ -1,8 +1,7 @@
 *.xlsx
 *.pyc
-*.vscode
+.vscode
 /__pycache__
-*/__pycache__
 *.class
 .setting
 .DS_Store
