@@ -1,1 +1,1 @@
-# Implementation of Generic Cards and Black Jack
+# Implementation Black Jack Card Game
