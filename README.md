@@ -6,9 +6,9 @@
 - Contact List (Polymorphism)
   - This mini project will focus on using polymorphism while interacting with a contact list. There is a main class that controls the “view” the user sees and responds to user input. The contact information (personal and work) is an instance of the class.
   
-- BlackJack Game
+- Flappy Bird
   - In this mini project a clone of the game Flappy Bird is created that makes use of the topics covered in this module.
 
-- Flappy Bird
+- BlackJack Game
 
 
